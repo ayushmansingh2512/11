@@ -12,7 +12,7 @@ src:url ('css/fonts/unicode.impact.ttf') format("truetype");
 }
 
 .background-image {
-    background-image: url(/css/images/image1.png);
+    background-image: url(css/images/image1.png);
     background-size: contain;
     background-repeat: no-repeat;
      
